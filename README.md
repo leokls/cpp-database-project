@@ -11,18 +11,29 @@ Usage example:
 Input:
 
 Add 0-1-2 event1
+
 Add 1-2-3 event2
+
 Find 0-1-2
 
+
 Del 0-1-2
+
 Print
+
 Del 1-2-3 event2
+
 Del 1-2-3 event2
 
 Output:
 
+
 event1
+
 Deleted 1 events
+
 0001-02-03 event2
+
 Deleted successfully
+
 Event not found
