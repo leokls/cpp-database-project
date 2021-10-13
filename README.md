@@ -1,6 +1,9 @@
 • Command line database that stores events in a dictionary.
+
 • Supports add, find and delete event, delete date, and print operations. 
+
 • OOP design: the Database class maps Date class to a set of events. 
+
 • Overloaded input/output stream and equality operators.
 
 Usage example:
