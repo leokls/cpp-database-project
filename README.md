@@ -8,6 +8,7 @@
 
 Usage example:
 
+---
 Input:
 
 Add 0-1-2 event1
@@ -15,7 +16,6 @@ Add 0-1-2 event1
 Add 1-2-3 event2
 
 Find 0-1-2
-
 
 Del 0-1-2
 
@@ -25,8 +25,8 @@ Del 1-2-3 event2
 
 Del 1-2-3 event2
 
+---
 Output:
-
 
 event1
 
